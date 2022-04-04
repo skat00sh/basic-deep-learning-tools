@@ -1,0 +1,8 @@
+config:
+  dataset: 'mnist'
+  epochs: 5
+  batch_size: 32
+  learning_rate: 0.01
+  random_seed: 42
+  momentum: 0.5
+  log_interval: 10
