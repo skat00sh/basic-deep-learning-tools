@@ -48,3 +48,4 @@ The repo was created as a part of a student round discussino at Fraunhofer AISEC
 ├── train.py
 └── utils.py
 ```
+- Conda autocomplete bashscript [link](https://gist.github.com/skat00sh/e2bc4ed82313e658add18396245adeae)
